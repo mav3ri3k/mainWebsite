@@ -9,7 +9,15 @@ export default function App({ Component }: AppProps) {
         <link rel="stylesheet" href="/styles.css" />
       </head>
       <body>
-        <Component />
+        <header>
+          mav3ri3k
+        </header>
+        <main>
+          <Component />
+        </main>
+        <footer>
+          Apurva Mishra
+        </footer>
       </body>
     </html>
   );
