@@ -12,5 +12,6 @@ Then start the project:
 ```
 deno task start
 ```
-Use github actions
-This will watch the project directory and restart as necessary.
+
+Use github actions This will watch the project directory and restart as
+necessary.
